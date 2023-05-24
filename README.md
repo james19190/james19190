@@ -1,4 +1,4 @@
-<h1>Hi, I'm Janes! <br/><a href="https://github.com/james19190">Programmer</a></h1>
+<h1>Hi, I'm James! <br/><a href="https://github.com/james19190">Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
