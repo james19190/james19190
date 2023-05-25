@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Praciting DS & Algos in Java](https://github.com/james19190/CodingPractice)
+  - [Practicing DS & Algos in Java](https://github.com/james19190/CodingPractice)
 
 
 <h2> 📄 Certifications:</h2>
