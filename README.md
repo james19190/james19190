@@ -17,8 +17,8 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 <h2> 📄 Certifications:</h2>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>AWS</b>
+  - [Amazon Web Services Cloud Practitioner Certificate]
 
 <h2> 🤳 Connect with me:</h2>
 
