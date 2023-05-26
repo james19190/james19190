@@ -5,9 +5,9 @@
 - <b>Data Structures and Algorithms Practice</b>
   - [Practicing DS & Algos in Java](https://github.com/james19190/CodingPractice)
 
-- <b>User Login System Practice</b>
-  - [Admin and Standard User Creation](https://github.com/james19190/CodingPractice)  
-  - [Admin and Standard User Creation](https://github.com/james19190/CodingPractice)
+- <b>User Login System (Practice)</b>
+  - [Admin and Standard User Creation](https://github.com/james19190/LoginSystem)  
+  - [Accessing User Data using RESTful API](https://github.com/james19190/RestfulAPI)
 
 
 <h2> 📄 Certifications:</h2>
