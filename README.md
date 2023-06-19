@@ -1,6 +1,6 @@
 <h1>Hi, I'm James! <br/><a href="https://github.com/james19190">Programmer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects (Personal):</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Practicing DS & Algos in Java](https://github.com/james19190/CodingPractice)
