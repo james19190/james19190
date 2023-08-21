@@ -13,6 +13,12 @@
 				'Guitar'
                          'Home Cooking'
 			]
+
+	workExperience = [
+				'Amaxon Web Services',
+                         'QRAFT AI ETF Technologies',
+			 	'BGC Partners'
+			]
 	
 	def getCurrentCity():
 		return Seoul, South Korea()
