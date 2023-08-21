@@ -1,4 +1,31 @@
-<h1>Hi, I'm James! <br/><a href="https://github.com/james19190">Programmer</a></h1>
+![Github Banner](https://github.com/james19190/james19190/blob/main/banner.png)
+
+ ```python
+  class WhoAmI:
+    user = 'James Kyoung Ho Kim'
+	current_edu = "Seoul National University"
+    major = ["Computer Science & Engineering", "Business Management & Administration"]
+    currently_learning = "TypeScript"
+	hobbies = [
+				'Golf',
+                         'Marathon',
+			 	'Scuba-Diving',
+				'Guitar'
+                         'Home Cooking'
+			]
+	
+	def getCurrentCity():
+		return Seoul, South Korea()
+
+	def homeCity():
+		return Hong Kong()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects() 
+         BecomeProGolfer()
+	
+ ```
 
 <h2>👨‍💻 Software Development Projects (Personal):</h2>
 
