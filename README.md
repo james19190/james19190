@@ -33,7 +33,7 @@
 	
  ```
 
-<h2>Programming Languages:</h2>
+<h2>Programming Languages & Tools:</h2>
 
 <p align="center"> 
 
