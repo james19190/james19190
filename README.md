@@ -15,9 +15,9 @@
 			]
 
 	workExperience = [
-				'Amaxon Web Services',
-                         'QRAFT AI ETF Technologies',
-			 	'BGC Partners'
+				'@Amazon Web Services',
+                         '@QRAFT AI ETF Technologies',
+			 	'@BGC Partners'
 			]
 	
 	def getCurrentCity():
