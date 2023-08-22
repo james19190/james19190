@@ -60,33 +60,7 @@
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james19190&layout=compact&theme=github_dark"/>|
 
-<h2>👨‍💻 Software Development Projects (Personal):</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Practicing DS & Algos in Java](https://github.com/james19190/CodingPractice)
-
-- <b>User Login System (Practice)</b>
-  - [Admin and Standard User Creation](https://github.com/james19190/LoginSystem)  
-  - [Accessing User Data using RESTful API](https://github.com/james19190/RestfulAPI)
-
-
-<h2> 📄 Certifications:</h2>
-
-- <b>AWS</b>
-  - [Cloud Practitioner Certificate]
-
-
-- <b>Python</b>
-  - [Python Data Structures](https://s3.us-east-2.amazonaws.com/certificates.james19190/PythonDataStructures.pdf)
-  - [Using Python to Access Web Data](https://s3.us-east-2.amazonaws.com/certificates.james19190/Using+Python+to+Access+Web+Data.pdf)
- 
-- <b> Backend Development
-  - [Introduction to Back-End Development](https://s3.us-east-2.amazonaws.com/certificates.james19190/Introduction+to+Backend+Development.pdf)
-  - [Programming in Python](https://s3.us-east-2.amazonaws.com/certificates.james19190/Introduction+to+Backend+Development.pdf) 
-
-
-
-<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JamesKim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JamesKim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
