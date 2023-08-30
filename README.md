@@ -11,7 +11,7 @@
                          'Marathon',
 			 	'Scuba-Diving',
 				'Guitar'
-                         'Home Cooking'
+                         'Cooking'
 			]
 
 	workExperience = [
