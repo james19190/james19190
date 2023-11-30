@@ -26,10 +26,6 @@
 	def homeCity():
 		return Hong Kong()
 	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects() 
-         BecomeProGolfer()
 	
  ```
 
