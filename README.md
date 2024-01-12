@@ -18,6 +18,7 @@
 				'@Amazon Web Services',
                          '@QRAFT AI ETF Technologies',
 			 	'@BGC Partners'
+				'@PHINETWORKS'
 			]
 	
 	def getCurrentCity():
